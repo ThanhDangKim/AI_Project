@@ -51,4 +51,4 @@ python AI_main.py
 
 # Contact us
 
-- Contact me via email: vipthanh05@gmail.com
+- Contact me via email: dangkimthanh281003@gmail.com
